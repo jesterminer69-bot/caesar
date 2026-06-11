@@ -1745,6 +1745,15 @@
       "last_processed_candle_utc": "2026-06-11T16:40:00Z",
       "slippage_paid": 0.143589,
       "timestamp_utc": "2026-06-11T16:46:12Z"
+    },
+    {
+      "cash": 9965.264423,
+      "deployed": 32.0106,
+      "equity": 9997.275024,
+      "fees_paid": 1.14846,
+      "last_processed_candle_utc": "2026-06-11T16:45:00Z",
+      "slippage_paid": 0.143589,
+      "timestamp_utc": "2026-06-11T16:51:11Z"
     }
   ],
   "schema": "pmv5_caesar_equity_history_0_1_0"
