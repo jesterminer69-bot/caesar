@@ -2,7 +2,7 @@
   "bot_started_at_utc": "2026-06-09T22:11:17Z",
   "coins": [
     {
-      "apr_estimate_pct": 0.9736,
+      "apr_estimate_pct": 0.9734,
       "avg_10d": "BULL_PULLBACK_RESET (82%)",
       "avg_3d": "BULL_PULLBACK_RESET (82%)",
       "buys": 1,
@@ -24,7 +24,7 @@
       "total_pnl_usd": 0.4685
     },
     {
-      "apr_estimate_pct": -0.6219,
+      "apr_estimate_pct": -0.6217,
       "avg_10d": "BULL_PULLBACK_RESET (82%)",
       "avg_3d": "BULL_PULLBACK_RESET (82%)",
       "buys": 1,
@@ -46,7 +46,7 @@
       "total_pnl_usd": -0.2993
     },
     {
-      "apr_estimate_pct": -0.8417,
+      "apr_estimate_pct": -0.8415,
       "avg_10d": "BULL_PULLBACK_RESET (82%)",
       "avg_3d": "BULL_PULLBACK_RESET (82%)",
       "buys": 1,
@@ -68,7 +68,7 @@
       "total_pnl_usd": -0.405
     },
     {
-      "apr_estimate_pct": -0.3635,
+      "apr_estimate_pct": -0.3634,
       "avg_10d": "BULL_PULLBACK_RESET (82%)",
       "avg_3d": "BULL_PULLBACK_RESET (82%)",
       "buys": 1,
@@ -112,7 +112,7 @@
       "total_pnl_usd": -0.1038
     },
     {
-      "apr_estimate_pct": -1.7911,
+      "apr_estimate_pct": -1.7907,
       "avg_10d": "BULL_PULLBACK_RESET (82%)",
       "avg_3d": "BULL_PULLBACK_RESET (82%)",
       "buys": 1,
@@ -134,7 +134,7 @@
       "total_pnl_usd": -0.8619
     },
     {
-      "apr_estimate_pct": -0.2301,
+      "apr_estimate_pct": -0.23,
       "avg_10d": "BULL_PULLBACK_RESET (82%)",
       "avg_3d": "BULL_PULLBACK_RESET (82%)",
       "buys": 1,
@@ -200,7 +200,7 @@
       "rows": 25920
     }
   },
-  "generated_at_utc": "2026-06-11T16:20:36Z",
+  "generated_at_utc": "2026-06-11T16:21:12Z",
   "last_processed_candle_utc": "2026-06-11T16:10:00Z",
   "mode": "PAPER",
   "notes": [
@@ -215,7 +215,7 @@
     "wallet_state": "C:\\Users\\marcg\\Documents\\kraken-bot\\profit-monkey-v5\\data\\caesar\\paper\\wallet_state.json"
   },
   "summary": {
-    "apr_estimate_pct": -5.466902,
+    "apr_estimate_pct": -5.465621,
     "buys": 7,
     "cash": 9965.264423,
     "current_drawdown_pct": -0.026308,
