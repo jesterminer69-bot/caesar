@@ -9305,6 +9305,60 @@
       "last_processed_candle_utc": "2026-06-14T20:05:00Z",
       "slippage_paid": 8.488243,
       "timestamp_utc": "2026-06-14T20:11:48Z"
+    },
+    {
+      "cash": 7332.251293,
+      "deployed": 2504.019732,
+      "equity": 9836.271025,
+      "fees_paid": 67.891563,
+      "last_processed_candle_utc": "2026-06-14T20:10:00Z",
+      "slippage_paid": 8.488243,
+      "timestamp_utc": "2026-06-14T20:16:20Z"
+    },
+    {
+      "cash": 7332.251293,
+      "deployed": 2505.269687,
+      "equity": 9837.52098,
+      "fees_paid": 67.891563,
+      "last_processed_candle_utc": "2026-06-14T20:15:00Z",
+      "slippage_paid": 8.488243,
+      "timestamp_utc": "2026-06-14T20:22:11Z"
+    },
+    {
+      "cash": 7332.251293,
+      "deployed": 2508.92527,
+      "equity": 9841.176563,
+      "fees_paid": 67.891563,
+      "last_processed_candle_utc": "2026-06-14T20:20:00Z",
+      "slippage_paid": 8.488243,
+      "timestamp_utc": "2026-06-14T20:26:25Z"
+    },
+    {
+      "cash": 7332.251293,
+      "deployed": 2509.433632,
+      "equity": 9841.684925,
+      "fees_paid": 67.891563,
+      "last_processed_candle_utc": "2026-06-14T20:25:00Z",
+      "slippage_paid": 8.488243,
+      "timestamp_utc": "2026-06-14T20:31:26Z"
+    },
+    {
+      "cash": 7332.251293,
+      "deployed": 2512.400415,
+      "equity": 9844.651708,
+      "fees_paid": 67.891563,
+      "last_processed_candle_utc": "2026-06-14T20:30:00Z",
+      "slippage_paid": 8.488243,
+      "timestamp_utc": "2026-06-14T20:36:25Z"
+    },
+    {
+      "cash": 7332.251293,
+      "deployed": 2515.144513,
+      "equity": 9847.395806,
+      "fees_paid": 67.891563,
+      "last_processed_candle_utc": "2026-06-14T20:35:00Z",
+      "slippage_paid": 8.488243,
+      "timestamp_utc": "2026-06-14T20:41:32Z"
     }
   ],
   "schema": "pmv5_caesar_equity_history_0_1_0"
