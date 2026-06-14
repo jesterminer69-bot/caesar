@@ -7163,6 +7163,69 @@
       "last_processed_candle_utc": "2026-06-14T00:00:00Z",
       "slippage_paid": 4.954817,
       "timestamp_utc": "2026-06-14T00:06:45Z"
+    },
+    {
+      "cash": 494.633687,
+      "deployed": 9514.069592,
+      "equity": 10008.703279,
+      "fees_paid": 39.638093,
+      "last_processed_candle_utc": "2026-06-14T00:05:00Z",
+      "slippage_paid": 4.954817,
+      "timestamp_utc": "2026-06-14T00:12:28Z"
+    },
+    {
+      "cash": 494.633687,
+      "deployed": 9513.073077,
+      "equity": 10007.706764,
+      "fees_paid": 39.638093,
+      "last_processed_candle_utc": "2026-06-14T00:10:00Z",
+      "slippage_paid": 4.954817,
+      "timestamp_utc": "2026-06-14T00:17:21Z"
+    },
+    {
+      "cash": 494.633687,
+      "deployed": 9511.022201,
+      "equity": 10005.655888,
+      "fees_paid": 39.638093,
+      "last_processed_candle_utc": "2026-06-14T00:15:00Z",
+      "slippage_paid": 4.954817,
+      "timestamp_utc": "2026-06-14T00:22:29Z"
+    },
+    {
+      "cash": 494.633687,
+      "deployed": 9515.536193,
+      "equity": 10010.169881,
+      "fees_paid": 39.638093,
+      "last_processed_candle_utc": "2026-06-14T00:20:00Z",
+      "slippage_paid": 4.954817,
+      "timestamp_utc": "2026-06-14T00:27:26Z"
+    },
+    {
+      "cash": 494.633687,
+      "deployed": 9515.793544,
+      "equity": 10010.427231,
+      "fees_paid": 39.638093,
+      "last_processed_candle_utc": "2026-06-14T00:25:00Z",
+      "slippage_paid": 4.954817,
+      "timestamp_utc": "2026-06-14T00:32:27Z"
+    },
+    {
+      "cash": 494.633687,
+      "deployed": 9527.298745,
+      "equity": 10021.932432,
+      "fees_paid": 39.638093,
+      "last_processed_candle_utc": "2026-06-14T00:30:00Z",
+      "slippage_paid": 4.954817,
+      "timestamp_utc": "2026-06-14T00:37:20Z"
+    },
+    {
+      "cash": 494.633687,
+      "deployed": 9529.718746,
+      "equity": 10024.352433,
+      "fees_paid": 39.638093,
+      "last_processed_candle_utc": "2026-06-14T00:35:00Z",
+      "slippage_paid": 4.954817,
+      "timestamp_utc": "2026-06-14T00:42:18Z"
     }
   ],
   "schema": "pmv5_caesar_equity_history_0_1_0"
