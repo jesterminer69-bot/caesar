@@ -2261,6 +2261,19 @@
         "XRP": "HIGH_VOL_STRESS_ROTATION"
       },
       "timestamp_utc": "2026-06-15T05:45:01Z"
+    },
+    {
+      "last_processed_candle_utc": "2026-06-15T06:05:00Z",
+      "regimes": {
+        "ADA": "BULL_IMPULSE_EXPANSION",
+        "BTC": "UNKNOWN_UP",
+        "DOGE": "BULL_PULLBACK_RESET",
+        "ETH": "UNKNOWN_UP",
+        "LINK": "NEUTRAL_CHOP_COIL",
+        "SOL": "BULL_PULLBACK_RESET",
+        "XRP": "HIGH_VOL_STRESS_ROTATION"
+      },
+      "timestamp_utc": "2026-06-15T06:15:04Z"
     }
   ],
   "schema": "pmv5_caesar_regime_history_0_1_0"
