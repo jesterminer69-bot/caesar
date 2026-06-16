@@ -12707,6 +12707,69 @@
       "last_processed_candle_utc": "2026-06-16T03:35:00Z",
       "slippage_paid": 18.181225,
       "timestamp_utc": "2026-06-16T03:42:20Z"
+    },
+    {
+      "cash": 3080.475289,
+      "deployed": 6827.654769,
+      "equity": 9908.130058,
+      "fees_paid": 145.499131,
+      "last_processed_candle_utc": "2026-06-16T03:40:00Z",
+      "slippage_paid": 18.191093,
+      "timestamp_utc": "2026-06-16T03:47:19Z"
+    },
+    {
+      "cash": 3080.475289,
+      "deployed": 6832.503115,
+      "equity": 9912.978404,
+      "fees_paid": 145.499131,
+      "last_processed_candle_utc": "2026-06-16T03:45:00Z",
+      "slippage_paid": 18.191093,
+      "timestamp_utc": "2026-06-16T03:52:26Z"
+    },
+    {
+      "cash": 3080.475289,
+      "deployed": 6829.070335,
+      "equity": 9909.545625,
+      "fees_paid": 145.499131,
+      "last_processed_candle_utc": "2026-06-16T03:50:00Z",
+      "slippage_paid": 18.191093,
+      "timestamp_utc": "2026-06-16T03:57:24Z"
+    },
+    {
+      "cash": 3080.475289,
+      "deployed": 6832.524792,
+      "equity": 9913.000081,
+      "fees_paid": 145.499131,
+      "last_processed_candle_utc": "2026-06-16T03:55:00Z",
+      "slippage_paid": 18.191093,
+      "timestamp_utc": "2026-06-16T04:02:23Z"
+    },
+    {
+      "cash": 3080.475289,
+      "deployed": 6838.183163,
+      "equity": 9918.658452,
+      "fees_paid": 145.499131,
+      "last_processed_candle_utc": "2026-06-16T04:00:00Z",
+      "slippage_paid": 18.191093,
+      "timestamp_utc": "2026-06-16T04:07:25Z"
+    },
+    {
+      "cash": 3080.475289,
+      "deployed": 6831.324072,
+      "equity": 9911.799362,
+      "fees_paid": 145.499131,
+      "last_processed_candle_utc": "2026-06-16T04:05:00Z",
+      "slippage_paid": 18.191093,
+      "timestamp_utc": "2026-06-16T04:12:20Z"
+    },
+    {
+      "cash": 3080.475289,
+      "deployed": 6828.537849,
+      "equity": 9909.013138,
+      "fees_paid": 145.499131,
+      "last_processed_candle_utc": "2026-06-16T04:10:00Z",
+      "slippage_paid": 18.191093,
+      "timestamp_utc": "2026-06-16T04:16:41Z"
     }
   ],
   "schema": "pmv5_caesar_equity_history_0_1_0"
