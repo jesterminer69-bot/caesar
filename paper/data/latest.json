@@ -2,7 +2,7 @@
   "bot_started_at_utc": "2026-06-09T22:11:17Z",
   "coins": [
     {
-      "apr_estimate_pct": -16.0932,
+      "apr_estimate_pct": -15.5064,
       "avg_10d": "NEUTRAL_CHOP_COIL (38%)",
       "avg_3d": "NEUTRAL_CHOP_COIL (47%)",
       "buys": 3,
@@ -13,18 +13,18 @@
       "entry": 66610.6887,
       "fees_usd": 23.2564,
       "has_position": true,
-      "last": 66345.4,
-      "note": "held pnl=-0.398%",
-      "open_pnl_pct": -0.4,
-      "open_pnl_usd": -7.5259,
-      "position_value_usd": 1882.2,
+      "last": 66376.9,
+      "note": "held pnl=-0.351%",
+      "open_pnl_pct": -0.35,
+      "open_pnl_usd": -6.6359,
+      "position_value_usd": 1883.09,
       "realized_pnl_usd": -19.3125,
       "sells": 4,
       "slippage_usd": 2.9075,
-      "total_pnl_usd": -26.8384
+      "total_pnl_usd": -25.9484
     },
     {
-      "apr_estimate_pct": 112.8298,
+      "apr_estimate_pct": 113.1315,
       "avg_10d": "NEUTRAL_CHOP_COIL (40%)",
       "avg_3d": "NEUTRAL_CHOP_COIL (50%)",
       "buys": 2,
@@ -35,18 +35,18 @@
       "entry": 1669.924545,
       "fees_usd": 10.186,
       "has_position": true,
-      "last": 1796.65,
-      "note": "held pnl=+7.589%",
-      "open_pnl_pct": 7.59,
-      "open_pnl_usd": 188.4636,
-      "position_value_usd": 2672.0,
+      "last": 1797.42,
+      "note": "held pnl=+7.635%",
+      "open_pnl_pct": 7.63,
+      "open_pnl_usd": 189.6136,
+      "position_value_usd": 2673.15,
       "realized_pnl_usd": -0.2993,
       "sells": 1,
       "slippage_usd": 1.2733,
-      "total_pnl_usd": 188.1644
+      "total_pnl_usd": 189.3144
     },
     {
-      "apr_estimate_pct": 58.8975,
+      "apr_estimate_pct": 63.2439,
       "avg_10d": "BULL_PULLBACK_RESET (38%)",
       "avg_3d": "NEUTRAL_CHOP_COIL (38%)",
       "buys": 3,
@@ -57,18 +57,18 @@
       "entry": 71.205585,
       "fees_usd": 10.3545,
       "has_position": true,
-      "last": 74.06,
-      "note": "held pnl=+4.009%",
-      "open_pnl_pct": 4.01,
-      "open_pnl_usd": 98.7296,
-      "position_value_usd": 2561.58,
+      "last": 74.28,
+      "note": "held pnl=+4.318%",
+      "open_pnl_pct": 4.32,
+      "open_pnl_usd": 106.3396,
+      "position_value_usd": 2569.19,
       "realized_pnl_usd": -0.5072,
       "sells": 2,
       "slippage_usd": 1.2943,
-      "total_pnl_usd": 98.2224
+      "total_pnl_usd": 105.8324
     },
     {
-      "apr_estimate_pct": 0.4923,
+      "apr_estimate_pct": 0.4906,
       "avg_10d": "UNKNOWN_SIDE (33%)",
       "avg_3d": "UNKNOWN_SIDE (36%)",
       "buys": 2,
@@ -90,7 +90,7 @@
       "total_pnl_usd": 0.821
     },
     {
-      "apr_estimate_pct": -21.0357,
+      "apr_estimate_pct": -20.9639,
       "avg_10d": "NEUTRAL_CHOP_COIL (37%)",
       "avg_3d": "NEUTRAL_CHOP_COIL (55%)",
       "buys": 3,
@@ -112,9 +112,9 @@
       "total_pnl_usd": -35.0809
     },
     {
-      "apr_estimate_pct": -34.588,
+      "apr_estimate_pct": -36.7168,
       "avg_10d": "UNKNOWN_SIDE (24%)",
-      "avg_3d": "UNKNOWN_SIDE (17%)",
+      "avg_3d": "BULL_PULLBACK_RESET (17%)",
       "buys": 6,
       "champion": "ZIRA_R069_SUPERAGG_115_HIGHVOLSTRESS",
       "coin": "ADA",
@@ -123,19 +123,19 @@
       "entry": 0.189263,
       "fees_usd": 31.8506,
       "has_position": true,
-      "last": 0.178942,
-      "note": "held pnl=-5.453%",
-      "open_pnl_pct": -5.45,
-      "open_pnl_usd": -138.4106,
-      "position_value_usd": 2399.75,
+      "last": 0.178662,
+      "note": "held pnl=-5.601%",
+      "open_pnl_pct": -5.6,
+      "open_pnl_usd": -142.1706,
+      "position_value_usd": 2395.99,
       "realized_pnl_usd": 80.7288,
       "sells": 5,
       "slippage_usd": 3.982,
-      "total_pnl_usd": -57.6818
+      "total_pnl_usd": -61.4418
     },
     {
-      "apr_estimate_pct": -16.2212,
-      "avg_10d": "NEUTRAL_CHOP_COIL (43%)",
+      "apr_estimate_pct": -16.1657,
+      "avg_10d": "NEUTRAL_CHOP_COIL (42%)",
       "avg_3d": "NEUTRAL_CHOP_COIL (54%)",
       "buys": 2,
       "champion": "ZIRA_R069_SUPERAGG_115_HIGHVOLSTRESS",
@@ -160,48 +160,48 @@
     "ADA": {
       "gaps": 0,
       "kraken_recent": 720,
-      "latest": "2026-06-16T00:05:00Z",
+      "latest": "2026-06-16T00:40:00Z",
       "rows": 25920
     },
     "BTC": {
       "gaps": 0,
       "kraken_recent": 720,
-      "latest": "2026-06-16T00:05:00Z",
+      "latest": "2026-06-16T00:40:00Z",
       "rows": 25920
     },
     "DOGE": {
       "gaps": 0,
       "kraken_recent": 720,
-      "latest": "2026-06-16T00:05:00Z",
+      "latest": "2026-06-16T00:40:00Z",
       "rows": 25920
     },
     "ETH": {
       "gaps": 0,
       "kraken_recent": 720,
-      "latest": "2026-06-16T00:05:00Z",
+      "latest": "2026-06-16T00:40:00Z",
       "rows": 25920
     },
     "LINK": {
       "gaps": 0,
       "kraken_recent": 720,
-      "latest": "2026-06-16T00:05:00Z",
+      "latest": "2026-06-16T00:40:00Z",
       "rows": 25920
     },
     "SOL": {
       "gaps": 0,
       "kraken_recent": 720,
-      "latest": "2026-06-16T00:05:00Z",
+      "latest": "2026-06-16T00:40:00Z",
       "rows": 25920
     },
     "XRP": {
       "gaps": 0,
       "kraken_recent": 720,
-      "latest": "2026-06-16T00:05:00Z",
+      "latest": "2026-06-16T00:40:00Z",
       "rows": 25920
     }
   },
-  "generated_at_utc": "2026-06-16T00:16:37Z",
-  "last_processed_candle_utc": "2026-06-16T00:05:00Z",
+  "generated_at_utc": "2026-06-16T00:46:40Z",
+  "last_processed_candle_utc": "2026-06-16T00:40:00Z",
   "mode": "PAPER",
   "notes": [
     "Public-safe display rounds most balances/position values.",
@@ -215,12 +215,12 @@
     "wallet_state": "C:\\Users\\marcg\\Documents\\kraken-bot\\profit-monkey-v5\\data\\caesar\\paper\\wallet_state.json"
   },
   "summary": {
-    "apr_estimate_pct": 14.767509,
+    "apr_estimate_pct": 18.238695,
     "buys": 21,
     "cash": 509.096659,
-    "current_drawdown_pct": -2.87556,
-    "current_equity": 10024.62752,
-    "deployed": 9515.530861,
+    "current_drawdown_pct": -2.818464,
+    "current_equity": 10030.520643,
+    "deployed": 9521.423984,
     "fees_paid": 115.933748,
     "max_drawdown_pct": -3.377865,
     "next_reward_check": "2026-06-16T22:11:17Z",
@@ -230,7 +230,7 @@
     "sells": 20,
     "slippage_paid": 14.494171,
     "starting_equity": 10000.0,
-    "total_return_pct": 0.246275,
+    "total_return_pct": 0.305206,
     "trade_count": 41,
     "usdc_credited_rewards": 0.0
   },
