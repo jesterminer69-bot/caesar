@@ -4497,6 +4497,19 @@
         "XRP": "BEAR_RANGE_DISTRIBUTION"
       },
       "timestamp_utc": "2026-06-19T12:22:39Z"
+    },
+    {
+      "last_processed_candle_utc": "2026-06-19T12:45:00Z",
+      "regimes": {
+        "ADA": "BEAR_RANGE_DISTRIBUTION",
+        "BTC": "UNKNOWN_SIDE",
+        "DOGE": "UNKNOWN_SIDE",
+        "ETH": "UNKNOWN_SIDE",
+        "LINK": "UNKNOWN_DOWN",
+        "SOL": "UNKNOWN_DOWN",
+        "XRP": "UNKNOWN_DOWN"
+      },
+      "timestamp_utc": "2026-06-19T12:52:41Z"
     }
   ],
   "schema": "pmv5_caesar_regime_history_0_1_0"
