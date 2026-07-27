@@ -2,9 +2,9 @@
   "bot_started_at_utc": "2026-06-22T22:55:28Z",
   "coins": [
     {
-      "apr_estimate_pct": 15.8789,
-      "avg_10d": "BULL_PULLBACK_RESET (59%)",
-      "avg_3d": "BULL_PULLBACK_RESET (82%)",
+      "apr_estimate_pct": 15.8693,
+      "avg_10d": "BULL_PULLBACK_RESET (60%)",
+      "avg_3d": "BULL_PULLBACK_RESET (83%)",
       "buys": 4,
       "champion": "ZIRA_R071_OVERNIGHT_0806_BULL_PULLBA",
       "coin": "BTC",
@@ -24,9 +24,9 @@
       "total_pnl_usd": 150.1547
     },
     {
-      "apr_estimate_pct": 7.4295,
+      "apr_estimate_pct": 7.425,
       "avg_10d": "NEUTRAL_CHOP_COIL (45%)",
-      "avg_3d": "NEUTRAL_CHOP_COIL (40%)",
+      "avg_3d": "NEUTRAL_CHOP_COIL (39%)",
       "buys": 7,
       "champion": "ZIRA_R071_OVERNIGHT_0806_BULL_PULLBA",
       "coin": "ETH",
@@ -46,7 +46,7 @@
       "total_pnl_usd": 70.2556
     },
     {
-      "apr_estimate_pct": 9.5479,
+      "apr_estimate_pct": 9.5421,
       "avg_10d": "NEUTRAL_CHOP_COIL (70%)",
       "avg_3d": "NEUTRAL_CHOP_COIL (68%)",
       "buys": 9,
@@ -68,8 +68,8 @@
       "total_pnl_usd": 90.2876
     },
     {
-      "apr_estimate_pct": 0.9432,
-      "avg_10d": "NEUTRAL_CHOP_COIL (63%)",
+      "apr_estimate_pct": 0.9426,
+      "avg_10d": "NEUTRAL_CHOP_COIL (64%)",
       "avg_3d": "NEUTRAL_CHOP_COIL (68%)",
       "buys": 10,
       "champion": "ZIRA_AUTO_TRANS_R005_NEUTRAL_CHOP_CO",
@@ -90,7 +90,7 @@
       "total_pnl_usd": 8.9192
     },
     {
-      "apr_estimate_pct": -16.107,
+      "apr_estimate_pct": -16.0972,
       "avg_10d": "NEUTRAL_CHOP_COIL (62%)",
       "avg_3d": "NEUTRAL_CHOP_COIL (88%)",
       "buys": 8,
@@ -112,7 +112,7 @@
       "total_pnl_usd": -152.3119
     },
     {
-      "apr_estimate_pct": -46.126,
+      "apr_estimate_pct": -46.0981,
       "avg_10d": "NEUTRAL_CHOP_COIL (45%)",
       "avg_3d": "NEUTRAL_CHOP_COIL (88%)",
       "buys": 10,
@@ -134,9 +134,9 @@
       "total_pnl_usd": -436.1798
     },
     {
-      "apr_estimate_pct": 12.7258,
+      "apr_estimate_pct": 12.7181,
       "avg_10d": "NEUTRAL_CHOP_COIL (58%)",
-      "avg_3d": "BULL_PULLBACK_RESET (55%)",
+      "avg_3d": "BULL_PULLBACK_RESET (56%)",
       "buys": 6,
       "champion": "ZIRA_R071_OVERNIGHT_0806_BULL_PULLBA",
       "coin": "LINK",
@@ -160,48 +160,48 @@
     "ADA": {
       "gaps": 3,
       "kraken_recent": 720,
-      "latest": "2026-07-27T11:10:00Z",
+      "latest": "2026-07-27T11:40:00Z",
       "rows": 20370
     },
     "BTC": {
       "gaps": 3,
       "kraken_recent": 720,
-      "latest": "2026-07-27T11:10:00Z",
+      "latest": "2026-07-27T11:40:00Z",
       "rows": 20370
     },
     "DOGE": {
       "gaps": 3,
       "kraken_recent": 720,
-      "latest": "2026-07-27T11:10:00Z",
+      "latest": "2026-07-27T11:40:00Z",
       "rows": 20370
     },
     "ETH": {
       "gaps": 3,
       "kraken_recent": 720,
-      "latest": "2026-07-27T11:10:00Z",
+      "latest": "2026-07-27T11:40:00Z",
       "rows": 20370
     },
     "LINK": {
       "gaps": 3,
       "kraken_recent": 720,
-      "latest": "2026-07-27T11:10:00Z",
+      "latest": "2026-07-27T11:40:00Z",
       "rows": 20370
     },
     "SOL": {
       "gaps": 3,
       "kraken_recent": 720,
-      "latest": "2026-07-27T11:10:00Z",
+      "latest": "2026-07-27T11:40:00Z",
       "rows": 20370
     },
     "XRP": {
       "gaps": 3,
       "kraken_recent": 720,
-      "latest": "2026-07-27T11:10:00Z",
+      "latest": "2026-07-27T11:40:00Z",
       "rows": 20370
     }
   },
-  "generated_at_utc": "2026-07-27T11:17:36Z",
-  "last_processed_candle_utc": "2026-07-27T11:10:00Z",
+  "generated_at_utc": "2026-07-27T11:47:39Z",
+  "last_processed_candle_utc": "2026-07-27T11:40:00Z",
   "mode": "PAPER",
   "notes": [
     "Public-safe display rounds most balances/position values.",
@@ -215,7 +215,7 @@
     "wallet_state": "C:\\Users\\marcg\\Documents\\kraken-bot\\profit-monkey-v5\\data\\caesar\\paper\\wallet_state.json"
   },
   "summary": {
-    "apr_estimate_pct": -46.009202,
+    "apr_estimate_pct": -45.981412,
     "buys": 54,
     "cash": 9564.924613,
     "current_drawdown_pct": -9.518652,
