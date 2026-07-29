@@ -10490,6 +10490,19 @@
         "XRP": "BULL_PULLBACK_RESET"
       },
       "timestamp_utc": "2026-07-29T13:21:59Z"
+    },
+    {
+      "last_processed_candle_utc": "2026-07-29T13:45:00Z",
+      "regimes": {
+        "ADA": "BULL_PULLBACK_RESET",
+        "BTC": "BULL_PULLBACK_RESET",
+        "DOGE": "BULL_PULLBACK_RESET",
+        "ETH": "BEAR_RANGE_DISTRIBUTION",
+        "LINK": "UNKNOWN_SIDE",
+        "SOL": "BEAR_RANGE_DISTRIBUTION",
+        "XRP": "BULL_PULLBACK_RESET"
+      },
+      "timestamp_utc": "2026-07-29T13:52:02Z"
     }
   ],
   "schema": "pmv5_caesar_regime_history_0_1_0"
