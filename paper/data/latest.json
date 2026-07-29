@@ -2,7 +2,7 @@
   "bot_started_at_utc": "2026-06-22T22:55:28Z",
   "coins": [
     {
-      "apr_estimate_pct": 14.9461,
+      "apr_estimate_pct": 14.9376,
       "avg_10d": "BULL_PULLBACK_RESET (43%)",
       "avg_3d": "BULL_PULLBACK_RESET (43%)",
       "buys": 5,
@@ -24,7 +24,7 @@
       "total_pnl_usd": 149.3652
     },
     {
-      "apr_estimate_pct": 6.9587,
+      "apr_estimate_pct": 6.9547,
       "avg_10d": "UNKNOWN_SIDE (30%)",
       "avg_3d": "UNKNOWN_SIDE (30%)",
       "buys": 8,
@@ -46,9 +46,9 @@
       "total_pnl_usd": 69.5424
     },
     {
-      "apr_estimate_pct": 9.1278,
-      "avg_10d": "NEUTRAL_CHOP_COIL (40%)",
-      "avg_3d": "NEUTRAL_CHOP_COIL (40%)",
+      "apr_estimate_pct": 9.1226,
+      "avg_10d": "NEUTRAL_CHOP_COIL (39%)",
+      "avg_3d": "NEUTRAL_CHOP_COIL (39%)",
       "buys": 11,
       "champion": "ZIRA_AUTO_TRANS_R055_BEAR_RANGE_DIST",
       "coin": "SOL",
@@ -68,7 +68,7 @@
       "total_pnl_usd": 91.2191
     },
     {
-      "apr_estimate_pct": 1.0191,
+      "apr_estimate_pct": 1.0185,
       "avg_10d": "NEUTRAL_CHOP_COIL (43%)",
       "avg_3d": "NEUTRAL_CHOP_COIL (43%)",
       "buys": 12,
@@ -90,9 +90,9 @@
       "total_pnl_usd": 10.1843
     },
     {
-      "apr_estimate_pct": -15.0799,
-      "avg_10d": "NEUTRAL_CHOP_COIL (48%)",
-      "avg_3d": "NEUTRAL_CHOP_COIL (48%)",
+      "apr_estimate_pct": -15.0712,
+      "avg_10d": "NEUTRAL_CHOP_COIL (47%)",
+      "avg_3d": "NEUTRAL_CHOP_COIL (47%)",
       "buys": 9,
       "champion": "ZIRA_R071_OVERNIGHT_0806_BULL_PULLBA",
       "coin": "XRP",
@@ -112,7 +112,7 @@
       "total_pnl_usd": -150.7017
     },
     {
-      "apr_estimate_pct": -43.6085,
+      "apr_estimate_pct": -43.5836,
       "avg_10d": "NEUTRAL_CHOP_COIL (40%)",
       "avg_3d": "NEUTRAL_CHOP_COIL (40%)",
       "buys": 12,
@@ -134,9 +134,9 @@
       "total_pnl_usd": -435.8053
     },
     {
-      "apr_estimate_pct": 12.0298,
-      "avg_10d": "BULL_PULLBACK_RESET (35%)",
-      "avg_3d": "BULL_PULLBACK_RESET (35%)",
+      "apr_estimate_pct": 12.0229,
+      "avg_10d": "BULL_PULLBACK_RESET (36%)",
+      "avg_3d": "BULL_PULLBACK_RESET (36%)",
       "buys": 8,
       "champion": "ZIRA_R071_OVERNIGHT_0806_BULL_PULLBA",
       "coin": "LINK",
@@ -160,48 +160,48 @@
     "ADA": {
       "gaps": 3,
       "kraken_recent": 720,
-      "latest": "2026-07-29T10:15:00Z",
+      "latest": "2026-07-29T10:45:00Z",
       "rows": 20370
     },
     "BTC": {
       "gaps": 3,
       "kraken_recent": 720,
-      "latest": "2026-07-29T10:15:00Z",
+      "latest": "2026-07-29T10:45:00Z",
       "rows": 20370
     },
     "DOGE": {
       "gaps": 3,
       "kraken_recent": 720,
-      "latest": "2026-07-29T10:15:00Z",
+      "latest": "2026-07-29T10:45:00Z",
       "rows": 20370
     },
     "ETH": {
       "gaps": 3,
       "kraken_recent": 720,
-      "latest": "2026-07-29T10:15:00Z",
+      "latest": "2026-07-29T10:45:00Z",
       "rows": 20370
     },
     "LINK": {
       "gaps": 3,
       "kraken_recent": 720,
-      "latest": "2026-07-29T10:15:00Z",
+      "latest": "2026-07-29T10:45:00Z",
       "rows": 20370
     },
     "SOL": {
       "gaps": 3,
       "kraken_recent": 720,
-      "latest": "2026-07-29T10:15:00Z",
+      "latest": "2026-07-29T10:45:00Z",
       "rows": 20370
     },
     "XRP": {
       "gaps": 3,
       "kraken_recent": 720,
-      "latest": "2026-07-29T10:15:00Z",
+      "latest": "2026-07-29T10:45:00Z",
       "rows": 20370
     }
   },
-  "generated_at_utc": "2026-07-29T10:21:43Z",
-  "last_processed_candle_utc": "2026-07-29T10:15:00Z",
+  "generated_at_utc": "2026-07-29T10:51:46Z",
+  "last_processed_candle_utc": "2026-07-29T10:45:00Z",
   "mode": "PAPER",
   "notes": [
     "Public-safe display rounds most balances/position values.",
@@ -215,7 +215,7 @@
     "wallet_state": "C:\\Users\\marcg\\Documents\\kraken-bot\\profit-monkey-v5\\data\\caesar\\paper\\wallet_state.json"
   },
   "summary": {
-    "apr_estimate_pct": -43.808904,
+    "apr_estimate_pct": -43.78386,
     "buys": 65,
     "cash": 9562.192178,
     "current_drawdown_pct": -9.5445,
