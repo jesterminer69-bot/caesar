@@ -2,9 +2,9 @@
   "bot_started_at_utc": "2026-06-22T22:55:28Z",
   "coins": [
     {
-      "apr_estimate_pct": 11.2297,
-      "avg_10d": "NEUTRAL_CHOP_COIL (42%)",
-      "avg_3d": "NEUTRAL_CHOP_COIL (42%)",
+      "apr_estimate_pct": 11.2249,
+      "avg_10d": "NEUTRAL_CHOP_COIL (44%)",
+      "avg_3d": "NEUTRAL_CHOP_COIL (44%)",
       "buys": 5,
       "champion": "ZIRA_AUTO_TRANS_R005_NEUTRAL_CHOP_CO",
       "coin": "BTC",
@@ -24,9 +24,9 @@
       "total_pnl_usd": 149.3652
     },
     {
-      "apr_estimate_pct": 5.2284,
-      "avg_10d": "UNKNOWN_SIDE (58%)",
-      "avg_3d": "UNKNOWN_SIDE (58%)",
+      "apr_estimate_pct": 5.2261,
+      "avg_10d": "UNKNOWN_SIDE (59%)",
+      "avg_3d": "UNKNOWN_SIDE (59%)",
       "buys": 8,
       "champion": "ZIRA_AUTO_TRANS_R147_UNKNOWN_SIDE_03",
       "coin": "ETH",
@@ -46,9 +46,9 @@
       "total_pnl_usd": 69.5424
     },
     {
-      "apr_estimate_pct": 6.8581,
-      "avg_10d": "UNKNOWN_SIDE (52%)",
-      "avg_3d": "UNKNOWN_SIDE (52%)",
+      "apr_estimate_pct": 6.8552,
+      "avg_10d": "UNKNOWN_SIDE (53%)",
+      "avg_3d": "UNKNOWN_SIDE (53%)",
       "buys": 11,
       "champion": "ZIRA_AUTO_TRANS_R147_UNKNOWN_SIDE_03",
       "coin": "SOL",
@@ -68,9 +68,9 @@
       "total_pnl_usd": 91.2191
     },
     {
-      "apr_estimate_pct": 0.7657,
-      "avg_10d": "BULL_COOLDOWN_DRIFT (39%)",
-      "avg_3d": "BULL_COOLDOWN_DRIFT (39%)",
+      "apr_estimate_pct": 0.7654,
+      "avg_10d": "BULL_COOLDOWN_DRIFT (38%)",
+      "avg_3d": "BULL_COOLDOWN_DRIFT (38%)",
       "buys": 12,
       "champion": "ZIRA_AUTO_TRANS_R005_NEUTRAL_CHOP_CO",
       "coin": "DOGE",
@@ -90,31 +90,31 @@
       "total_pnl_usd": 10.1843
     },
     {
-      "apr_estimate_pct": -10.6468,
-      "avg_10d": "UNKNOWN_SIDE (52%)",
-      "avg_3d": "UNKNOWN_SIDE (52%)",
-      "buys": 11,
+      "apr_estimate_pct": -10.6457,
+      "avg_10d": "UNKNOWN_SIDE (53%)",
+      "avg_3d": "UNKNOWN_SIDE (53%)",
+      "buys": 12,
       "champion": "ZIRA_AUTO_TRANS_R147_UNKNOWN_SIDE_03",
       "coin": "XRP",
       "current_regime": "UNKNOWN_SIDE",
       "decision": "HOLD",
-      "entry": null,
-      "fees_usd": 70.4679,
-      "has_position": false,
-      "last": null,
-      "note": "no_position",
-      "open_pnl_pct": null,
-      "open_pnl_usd": 0.0,
-      "position_value_usd": 0.0,
+      "entry": 1.03324,
+      "fees_usd": 70.5464,
+      "has_position": true,
+      "last": 1.03177,
+      "note": "held pnl=-0.142%",
+      "open_pnl_pct": -0.14,
+      "open_pnl_usd": -0.0469,
+      "position_value_usd": 30.06,
       "realized_pnl_usd": -141.6117,
       "sells": 12,
       "slippage_usd": 0.0,
-      "total_pnl_usd": -141.6117
+      "total_pnl_usd": -141.6587
     },
     {
-      "apr_estimate_pct": -36.7185,
-      "avg_10d": "NEUTRAL_CHOP_COIL (45%)",
-      "avg_3d": "NEUTRAL_CHOP_COIL (45%)",
+      "apr_estimate_pct": -36.7027,
+      "avg_10d": "NEUTRAL_CHOP_COIL (44%)",
+      "avg_3d": "NEUTRAL_CHOP_COIL (44%)",
       "buys": 13,
       "champion": "ZIRA_AUTO_TRANS_R147_UNKNOWN_SIDE_03",
       "coin": "ADA",
@@ -134,9 +134,9 @@
       "total_pnl_usd": -488.3896
     },
     {
-      "apr_estimate_pct": 9.0385,
-      "avg_10d": "NEUTRAL_CHOP_COIL (55%)",
-      "avg_3d": "NEUTRAL_CHOP_COIL (55%)",
+      "apr_estimate_pct": 9.0346,
+      "avg_10d": "NEUTRAL_CHOP_COIL (56%)",
+      "avg_3d": "NEUTRAL_CHOP_COIL (56%)",
       "buys": 8,
       "champion": "ZIRA_AUTO_TRANS_R005_NEUTRAL_CHOP_CO",
       "coin": "LINK",
@@ -160,48 +160,48 @@
     "ADA": {
       "gaps": 4,
       "kraken_recent": 720,
-      "latest": "2026-08-10T11:55:00Z",
+      "latest": "2026-08-10T12:25:00Z",
       "rows": 17870
     },
     "BTC": {
       "gaps": 4,
       "kraken_recent": 720,
-      "latest": "2026-08-10T11:55:00Z",
+      "latest": "2026-08-10T12:25:00Z",
       "rows": 17870
     },
     "DOGE": {
       "gaps": 4,
       "kraken_recent": 720,
-      "latest": "2026-08-10T11:55:00Z",
+      "latest": "2026-08-10T12:25:00Z",
       "rows": 17870
     },
     "ETH": {
       "gaps": 4,
       "kraken_recent": 720,
-      "latest": "2026-08-10T11:55:00Z",
+      "latest": "2026-08-10T12:25:00Z",
       "rows": 17870
     },
     "LINK": {
       "gaps": 4,
       "kraken_recent": 720,
-      "latest": "2026-08-10T11:55:00Z",
+      "latest": "2026-08-10T12:25:00Z",
       "rows": 17870
     },
     "SOL": {
       "gaps": 4,
       "kraken_recent": 720,
-      "latest": "2026-08-10T11:55:00Z",
+      "latest": "2026-08-10T12:25:00Z",
       "rows": 17870
     },
     "XRP": {
       "gaps": 4,
       "kraken_recent": 720,
-      "latest": "2026-08-10T11:55:00Z",
+      "latest": "2026-08-10T12:25:00Z",
       "rows": 17870
     }
   },
-  "generated_at_utc": "2026-08-10T12:05:08Z",
-  "last_processed_candle_utc": "2026-08-10T11:55:00Z",
+  "generated_at_utc": "2026-08-10T12:35:11Z",
+  "last_processed_candle_utc": "2026-08-10T12:25:00Z",
   "mode": "PAPER",
   "notes": [
     "Public-safe display rounds most balances/position values.",
@@ -215,23 +215,23 @@
     "wallet_state": "C:\\Users\\marcg\\Documents\\kraken-bot\\profit-monkey-v5\\data\\caesar\\paper\\wallet_state.json"
   },
   "summary": {
-    "apr_estimate_pct": -37.273834,
-    "buys": 68,
-    "cash": 9504.223438,
-    "current_drawdown_pct": -10.092867,
-    "current_equity": 9504.223438,
-    "deployed": 0.0,
-    "fees_paid": 310.131499,
-    "max_drawdown_pct": -10.092867,
+    "apr_estimate_pct": -37.266939,
+    "buys": 69,
+    "cash": 9474.038024,
+    "current_drawdown_pct": -10.094014,
+    "current_equity": 9504.102123,
+    "deployed": 30.064098,
+    "fees_paid": 310.209981,
+    "max_drawdown_pct": -10.094014,
     "next_reward_check": "2026-08-14T08:00:00Z",
     "peak_equity": 10571.156135,
     "realized_pnl_usd": -189.469961,
-    "round_trips": 68,
+    "round_trips": 69,
     "sells": 79,
     "slippage_paid": 0.0,
     "starting_equity": 10000.0,
-    "total_return_pct": -4.957766,
-    "trade_count": 147,
+    "total_return_pct": -4.958979,
+    "trade_count": 148,
     "usdc_credited_rewards": 3.824898
   },
   "version": "0.1.0-caesar-github-pages-reporter"
