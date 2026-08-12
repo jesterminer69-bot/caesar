@@ -11855,6 +11855,32 @@
         "XRP": "UNKNOWN_SIDE"
       },
       "timestamp_utc": "2026-08-12T01:02:25Z"
+    },
+    {
+      "last_processed_candle_utc": "2026-08-12T01:25:00Z",
+      "regimes": {
+        "ADA": "NEUTRAL_CHOP_COIL",
+        "BTC": "UNKNOWN_SIDE",
+        "DOGE": "BULL_PULLBACK_RESET",
+        "ETH": "UNKNOWN_SIDE",
+        "LINK": "HIGH_VOL_STRESS_ROTATION",
+        "SOL": "UNKNOWN_SIDE",
+        "XRP": "BULL_PULLBACK_RESET"
+      },
+      "timestamp_utc": "2026-08-12T01:33:07Z"
+    },
+    {
+      "last_processed_candle_utc": "2026-08-12T01:55:00Z",
+      "regimes": {
+        "ADA": "NEUTRAL_CHOP_COIL",
+        "BTC": "UNKNOWN_SIDE",
+        "DOGE": "BULL_PULLBACK_RESET",
+        "ETH": "UNKNOWN_SIDE",
+        "LINK": "UNKNOWN_UP",
+        "SOL": "UNKNOWN_SIDE",
+        "XRP": "BULL_PULLBACK_RESET"
+      },
+      "timestamp_utc": "2026-08-12T02:03:36Z"
     }
   ],
   "schema": "pmv5_caesar_regime_history_0_1_0"
