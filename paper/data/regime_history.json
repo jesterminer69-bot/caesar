@@ -12219,6 +12219,19 @@
         "XRP": "NEUTRAL_CHOP_COIL"
       },
       "timestamp_utc": "2026-08-12T15:07:25Z"
+    },
+    {
+      "last_processed_candle_utc": "2026-08-12T15:30:00Z",
+      "regimes": {
+        "ADA": "BEAR_RANGE_DISTRIBUTION",
+        "BTC": "BULL_COOLDOWN_DRIFT",
+        "DOGE": "NEUTRAL_CHOP_COIL",
+        "ETH": "NEUTRAL_CHOP_COIL",
+        "LINK": "NEUTRAL_CHOP_COIL",
+        "SOL": "NEUTRAL_CHOP_COIL",
+        "XRP": "UNKNOWN_SIDE"
+      },
+      "timestamp_utc": "2026-08-12T15:37:28Z"
     }
   ],
   "schema": "pmv5_caesar_regime_history_0_1_0"
