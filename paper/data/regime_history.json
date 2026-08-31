@@ -14481,6 +14481,19 @@
         "XRP": "UNKNOWN_SIDE"
       },
       "timestamp_utc": "2026-08-31T04:40:52Z"
+    },
+    {
+      "last_processed_candle_utc": "2026-08-31T05:00:00Z",
+      "regimes": {
+        "ADA": "BEAR_TREND_CONTINUATION",
+        "BTC": "UNKNOWN_SIDE",
+        "DOGE": "BEAR_TREND_CONTINUATION",
+        "ETH": "UNKNOWN_UP",
+        "LINK": "UNKNOWN_SIDE",
+        "SOL": "BEAR_TREND_CONTINUATION",
+        "XRP": "BEAR_RANGE_DISTRIBUTION"
+      },
+      "timestamp_utc": "2026-08-31T05:11:06Z"
     }
   ],
   "schema": "pmv5_caesar_regime_history_0_1_0"
