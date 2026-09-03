@@ -16236,6 +16236,32 @@
         "XRP": "BULL_PULLBACK_RESET"
       },
       "timestamp_utc": "2026-09-03T00:19:01Z"
+    },
+    {
+      "last_processed_candle_utc": "2026-09-03T00:40:00Z",
+      "regimes": {
+        "ADA": "BULL_PULLBACK_RESET",
+        "BTC": "BULL_PULLBACK_RESET",
+        "DOGE": "BULL_PULLBACK_RESET",
+        "ETH": "UNKNOWN_SIDE",
+        "LINK": "UNKNOWN_SIDE",
+        "SOL": "BULL_PULLBACK_RESET",
+        "XRP": "BULL_PULLBACK_RESET"
+      },
+      "timestamp_utc": "2026-09-03T00:49:18Z"
+    },
+    {
+      "last_processed_candle_utc": "2026-09-03T01:10:00Z",
+      "regimes": {
+        "ADA": "BULL_PULLBACK_RESET",
+        "BTC": "BULL_PULLBACK_RESET",
+        "DOGE": "BULL_PULLBACK_RESET",
+        "ETH": "UNKNOWN_SIDE",
+        "LINK": "UNKNOWN_SIDE",
+        "SOL": "BULL_PULLBACK_RESET",
+        "XRP": "BULL_PULLBACK_RESET"
+      },
+      "timestamp_utc": "2026-09-03T01:19:51Z"
     }
   ],
   "schema": "pmv5_caesar_regime_history_0_1_0"
