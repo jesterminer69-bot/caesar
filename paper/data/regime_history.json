@@ -17315,6 +17315,19 @@
         "XRP": "UNKNOWN_DOWN"
       },
       "timestamp_utc": "2026-09-16T21:26:34Z"
+    },
+    {
+      "last_processed_candle_utc": "2026-09-16T21:50:00Z",
+      "regimes": {
+        "ADA": "UNKNOWN_DOWN",
+        "BTC": "HIGH_VOL_STRESS_ROTATION",
+        "DOGE": "UNKNOWN_SIDE",
+        "ETH": "UNKNOWN_SIDE",
+        "LINK": "HIGH_VOL_STRESS_ROTATION",
+        "SOL": "HIGH_VOL_STRESS_ROTATION",
+        "XRP": "UNKNOWN_DOWN"
+      },
+      "timestamp_utc": "2026-09-16T21:56:37Z"
     }
   ],
   "schema": "pmv5_caesar_regime_history_0_1_0"
