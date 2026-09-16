@@ -2,9 +2,9 @@
   "bot_started_at_utc": "2026-06-22T22:55:28Z",
   "coins": [
     {
-      "apr_estimate_pct": 6.3967,
-      "avg_10d": "UNKNOWN_DOWN (56%)",
-      "avg_3d": "UNKNOWN_DOWN (56%)",
+      "apr_estimate_pct": 6.3952,
+      "avg_10d": "UNKNOWN_DOWN (55%)",
+      "avg_3d": "UNKNOWN_DOWN (55%)",
       "buys": 5,
       "champion": "ZIRA_AUTO_TRANS_R147_UNKNOWN_SIDE_03",
       "coin": "BTC",
@@ -24,9 +24,9 @@
       "total_pnl_usd": 149.3652
     },
     {
-      "apr_estimate_pct": 3.112,
-      "avg_10d": "UNKNOWN_DOWN (49%)",
-      "avg_3d": "UNKNOWN_DOWN (49%)",
+      "apr_estimate_pct": 3.1112,
+      "avg_10d": "UNKNOWN_DOWN (48%)",
+      "avg_3d": "UNKNOWN_DOWN (48%)",
       "buys": 10,
       "champion": "ZIRA_AUTO_TRANS_R147_UNKNOWN_SIDE_03",
       "coin": "ETH",
@@ -46,9 +46,9 @@
       "total_pnl_usd": 72.6653
     },
     {
-      "apr_estimate_pct": 3.7737,
-      "avg_10d": "BEAR_RANGE_DISTRIBUTION (32%)",
-      "avg_3d": "BEAR_RANGE_DISTRIBUTION (32%)",
+      "apr_estimate_pct": 3.7728,
+      "avg_10d": "BEAR_RANGE_DISTRIBUTION (31%)",
+      "avg_3d": "BEAR_RANGE_DISTRIBUTION (31%)",
       "buys": 13,
       "champion": "ZIRA_AUTO_TRANS_R002_UNKNOWN_DOWN_01",
       "coin": "SOL",
@@ -68,9 +68,9 @@
       "total_pnl_usd": 88.1175
     },
     {
-      "apr_estimate_pct": -0.5228,
-      "avg_10d": "UNKNOWN_DOWN (39%)",
-      "avg_3d": "UNKNOWN_DOWN (39%)",
+      "apr_estimate_pct": -0.5226,
+      "avg_10d": "UNKNOWN_DOWN (40%)",
+      "avg_3d": "UNKNOWN_DOWN (40%)",
       "buys": 15,
       "champion": "ZIRA_AUTO_TRANS_R002_UNKNOWN_DOWN_01",
       "coin": "DOGE",
@@ -90,9 +90,9 @@
       "total_pnl_usd": -12.2066
     },
     {
-      "apr_estimate_pct": -6.2097,
-      "avg_10d": "UNKNOWN_DOWN (59%)",
-      "avg_3d": "UNKNOWN_DOWN (59%)",
+      "apr_estimate_pct": -6.2082,
+      "avg_10d": "UNKNOWN_DOWN (60%)",
+      "avg_3d": "UNKNOWN_DOWN (60%)",
       "buys": 16,
       "champion": "ZIRA_AUTO_TRANS_R002_UNKNOWN_DOWN_01",
       "coin": "XRP",
@@ -112,9 +112,9 @@
       "total_pnl_usd": -144.9981
     },
     {
-      "apr_estimate_pct": -21.7733,
-      "avg_10d": "UNKNOWN_DOWN (41%)",
-      "avg_3d": "UNKNOWN_DOWN (41%)",
+      "apr_estimate_pct": -21.3338,
+      "avg_10d": "UNKNOWN_DOWN (40%)",
+      "avg_3d": "UNKNOWN_DOWN (40%)",
       "buys": 17,
       "champion": "ZIRA_R071_OVERNIGHT_0950_BEAR_TREND_",
       "coin": "ADA",
@@ -123,18 +123,18 @@
       "entry": 0.194108,
       "fees_usd": 111.5591,
       "has_position": true,
-      "last": 0.194963,
-      "note": "held pnl=+0.440%",
-      "open_pnl_pct": 0.44,
-      "open_pnl_usd": 10.3237,
-      "position_value_usd": 2354.79,
+      "last": 0.195802,
+      "note": "held pnl=+0.873%",
+      "open_pnl_pct": 0.87,
+      "open_pnl_usd": 20.4637,
+      "position_value_usd": 2364.93,
       "realized_pnl_usd": -518.7363,
       "sells": 17,
       "slippage_usd": 0.0,
-      "total_pnl_usd": -508.4126
+      "total_pnl_usd": -498.2726
     },
     {
-      "apr_estimate_pct": 5.0437,
+      "apr_estimate_pct": 5.3058,
       "avg_10d": "UNKNOWN_DOWN (29%)",
       "avg_3d": "UNKNOWN_DOWN (29%)",
       "buys": 11,
@@ -145,63 +145,63 @@
       "entry": 10.79317,
       "fees_usd": 34.3507,
       "has_position": true,
-      "last": 10.80587,
-      "note": "held pnl=+0.118%",
-      "open_pnl_pct": 0.12,
-      "open_pnl_usd": 2.7481,
-      "position_value_usd": 2340.92,
+      "last": 10.83423,
+      "note": "held pnl=+0.380%",
+      "open_pnl_pct": 0.38,
+      "open_pnl_usd": 8.8981,
+      "position_value_usd": 2347.07,
       "realized_pnl_usd": 115.0238,
       "sells": 13,
       "slippage_usd": 0.0,
-      "total_pnl_usd": 117.7719
+      "total_pnl_usd": 123.9219
     }
   ],
   "data_health": {
     "ADA": {
       "gaps": 6,
       "kraken_recent": 720,
-      "latest": "2026-09-16T04:15:00Z",
+      "latest": "2026-09-16T04:45:00Z",
       "rows": 11499
     },
     "BTC": {
       "gaps": 6,
       "kraken_recent": 720,
-      "latest": "2026-09-16T04:15:00Z",
+      "latest": "2026-09-16T04:45:00Z",
       "rows": 11499
     },
     "DOGE": {
       "gaps": 6,
       "kraken_recent": 720,
-      "latest": "2026-09-16T04:15:00Z",
+      "latest": "2026-09-16T04:45:00Z",
       "rows": 11499
     },
     "ETH": {
       "gaps": 6,
       "kraken_recent": 720,
-      "latest": "2026-09-16T04:15:00Z",
+      "latest": "2026-09-16T04:45:00Z",
       "rows": 11499
     },
     "LINK": {
       "gaps": 6,
       "kraken_recent": 720,
-      "latest": "2026-09-16T04:15:00Z",
+      "latest": "2026-09-16T04:45:00Z",
       "rows": 11499
     },
     "SOL": {
       "gaps": 6,
       "kraken_recent": 720,
-      "latest": "2026-09-16T04:15:00Z",
+      "latest": "2026-09-16T04:45:00Z",
       "rows": 11499
     },
     "XRP": {
       "gaps": 6,
       "kraken_recent": 720,
-      "latest": "2026-09-16T04:15:00Z",
+      "latest": "2026-09-16T04:45:00Z",
       "rows": 11499
     }
   },
-  "generated_at_utc": "2026-09-16T04:24:30Z",
-  "last_processed_candle_utc": "2026-09-16T04:15:00Z",
+  "generated_at_utc": "2026-09-16T04:54:33Z",
+  "last_processed_candle_utc": "2026-09-16T04:45:00Z",
   "mode": "PAPER",
   "notes": [
     "Public-safe display rounds most balances/position values.",
@@ -215,12 +215,12 @@
     "wallet_state": "C:\\Users\\marcg\\Documents\\kraken-bot\\profit-monkey-v5\\data\\caesar\\paper\\wallet_state.json"
   },
   "summary": {
-    "apr_estimate_pct": -25.559321,
+    "apr_estimate_pct": -24.856142,
     "buys": 87,
     "cash": 4707.466491,
-    "current_drawdown_pct": -11.048681,
-    "current_equity": 9403.182816,
-    "deployed": 4695.716324,
+    "current_drawdown_pct": -10.894702,
+    "current_equity": 9419.460138,
+    "deployed": 4711.993647,
     "fees_paid": 388.369173,
     "max_drawdown_pct": -11.353377,
     "next_reward_check": "2026-09-19T20:20:00Z",
@@ -230,7 +230,7 @@
     "sells": 97,
     "slippage_paid": 0.0,
     "starting_equity": 10000.0,
-    "total_return_pct": -5.968172,
+    "total_return_pct": -5.805399,
     "trade_count": 184,
     "usdc_credited_rewards": 29.243055
   },
