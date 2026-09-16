@@ -16782,6 +16782,19 @@
         "XRP": "CRASH"
       },
       "timestamp_utc": "2026-09-16T00:54:09Z"
+    },
+    {
+      "last_processed_candle_utc": "2026-09-16T01:15:00Z",
+      "regimes": {
+        "ADA": "BEAR_TREND_CONTINUATION",
+        "BTC": "HIGH_VOL_STRESS_ROTATION",
+        "DOGE": "UNKNOWN_DOWN",
+        "ETH": "UNKNOWN_SIDE",
+        "LINK": "BEAR_TREND_CONTINUATION",
+        "SOL": "UNKNOWN_DOWN",
+        "XRP": "CRASH"
+      },
+      "timestamp_utc": "2026-09-16T01:24:11Z"
     }
   ],
   "schema": "pmv5_caesar_regime_history_0_1_0"
