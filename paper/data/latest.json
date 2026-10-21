@@ -2,9 +2,9 @@
   "bot_started_at_utc": "2026-06-22T22:55:28Z",
   "coins": [
     {
-      "apr_estimate_pct": 4.5155,
-      "avg_10d": "BULL_PULLBACK_RESET (58%)",
-      "avg_3d": "BULL_PULLBACK_RESET (58%)",
+      "apr_estimate_pct": 4.5147,
+      "avg_10d": "BULL_PULLBACK_RESET (60%)",
+      "avg_3d": "BULL_PULLBACK_RESET (60%)",
       "buys": 5,
       "champion": "ZIRA_R071_OVERNIGHT_0806_BULL_PULLBA",
       "coin": "BTC",
@@ -24,7 +24,7 @@
       "total_pnl_usd": 149.3652
     },
     {
-      "apr_estimate_pct": 2.1887,
+      "apr_estimate_pct": 2.1883,
       "avg_10d": "UNKNOWN_SIDE (95%)",
       "avg_3d": "UNKNOWN_SIDE (95%)",
       "buys": 11,
@@ -68,7 +68,7 @@
       "total_pnl_usd": -11.8328
     },
     {
-      "apr_estimate_pct": -0.342,
+      "apr_estimate_pct": -0.3419,
       "avg_10d": "UNKNOWN_SIDE (95%)",
       "avg_3d": "UNKNOWN_SIDE (95%)",
       "buys": 16,
@@ -90,9 +90,9 @@
       "total_pnl_usd": -11.3128
     },
     {
-      "apr_estimate_pct": -4.3959,
-      "avg_10d": "UNKNOWN_UP (58%)",
-      "avg_3d": "UNKNOWN_UP (58%)",
+      "apr_estimate_pct": -4.3951,
+      "avg_10d": "UNKNOWN_UP (60%)",
+      "avg_3d": "UNKNOWN_UP (60%)",
       "buys": 17,
       "champion": "ZIRA_AUTO_TRANS_R018_UNKNOWN_UP_011",
       "coin": "XRP",
@@ -112,9 +112,9 @@
       "total_pnl_usd": -145.4083
     },
     {
-      "apr_estimate_pct": -13.3621,
-      "avg_10d": "NEUTRAL_CHOP_COIL (68%)",
-      "avg_3d": "NEUTRAL_CHOP_COIL (68%)",
+      "apr_estimate_pct": -13.3598,
+      "avg_10d": "NEUTRAL_CHOP_COIL (65%)",
+      "avg_3d": "NEUTRAL_CHOP_COIL (65%)",
       "buys": 19,
       "champion": "ZIRA_R071_OVERNIGHT_0806_BULL_PULLBA",
       "coin": "ADA",
@@ -134,7 +134,7 @@
       "total_pnl_usd": -441.9983
     },
     {
-      "apr_estimate_pct": 5.2489,
+      "apr_estimate_pct": 5.248,
       "avg_10d": "NEUTRAL_CHOP_COIL (95%)",
       "avg_3d": "NEUTRAL_CHOP_COIL (95%)",
       "buys": 13,
@@ -160,48 +160,48 @@
     "ADA": {
       "gaps": 4,
       "kraken_recent": 720,
-      "latest": "2026-10-21T16:30:00Z",
-      "rows": 8139
+      "latest": "2026-10-21T17:00:00Z",
+      "rows": 8145
     },
     "BTC": {
       "gaps": 4,
       "kraken_recent": 720,
-      "latest": "2026-10-21T16:30:00Z",
-      "rows": 8139
+      "latest": "2026-10-21T17:00:00Z",
+      "rows": 8145
     },
     "DOGE": {
       "gaps": 4,
       "kraken_recent": 720,
-      "latest": "2026-10-21T16:30:00Z",
-      "rows": 8139
+      "latest": "2026-10-21T17:00:00Z",
+      "rows": 8145
     },
     "ETH": {
       "gaps": 4,
       "kraken_recent": 720,
-      "latest": "2026-10-21T16:30:00Z",
-      "rows": 8139
+      "latest": "2026-10-21T17:00:00Z",
+      "rows": 8145
     },
     "LINK": {
       "gaps": 4,
       "kraken_recent": 720,
-      "latest": "2026-10-21T16:30:00Z",
-      "rows": 8139
+      "latest": "2026-10-21T17:00:00Z",
+      "rows": 8145
     },
     "SOL": {
       "gaps": 4,
       "kraken_recent": 720,
-      "latest": "2026-10-21T16:30:00Z",
-      "rows": 8139
+      "latest": "2026-10-21T17:00:00Z",
+      "rows": 8145
     },
     "XRP": {
       "gaps": 4,
       "kraken_recent": 720,
-      "latest": "2026-10-21T16:30:00Z",
-      "rows": 8139
+      "latest": "2026-10-21T17:00:00Z",
+      "rows": 8145
     }
   },
-  "generated_at_utc": "2026-10-21T16:35:57Z",
-  "last_processed_candle_utc": "2026-10-21T16:30:00Z",
+  "generated_at_utc": "2026-10-21T17:06:01Z",
+  "last_processed_candle_utc": "2026-10-21T17:00:00Z",
   "mode": "PAPER",
   "notes": [
     "Public-safe display rounds most balances/position values.",
@@ -215,7 +215,7 @@
     "wallet_state": "C:\\Users\\marcg\\Documents\\kraken-bot\\profit-monkey-v5\\data\\caesar\\paper\\wallet_state.json"
   },
   "summary": {
-    "apr_estimate_pct": -18.771151,
+    "apr_estimate_pct": -18.767907,
     "buys": 96,
     "cash": 9379.078824,
     "current_drawdown_pct": -11.276698,
