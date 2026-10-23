@@ -61235,6 +61235,69 @@
       "last_processed_candle_utc": "2026-10-23T17:00:00Z",
       "slippage_paid": 0.0,
       "timestamp_utc": "2026-10-23T17:05:55Z"
+    },
+    {
+      "cash": 7013.603319,
+      "deployed": 2350.963743,
+      "equity": 9364.567063,
+      "fees_paid": 445.159855,
+      "last_processed_candle_utc": "2026-10-23T17:05:00Z",
+      "slippage_paid": 0.0,
+      "timestamp_utc": "2026-10-23T17:10:56Z"
+    },
+    {
+      "cash": 7013.603319,
+      "deployed": 2353.866576,
+      "equity": 9367.469895,
+      "fees_paid": 445.159855,
+      "last_processed_candle_utc": "2026-10-23T17:10:00Z",
+      "slippage_paid": 0.0,
+      "timestamp_utc": "2026-10-23T17:15:56Z"
+    },
+    {
+      "cash": 7013.603319,
+      "deployed": 2355.378355,
+      "equity": 9368.981674,
+      "fees_paid": 445.159855,
+      "last_processed_candle_utc": "2026-10-23T17:15:00Z",
+      "slippage_paid": 0.0,
+      "timestamp_utc": "2026-10-23T17:20:56Z"
+    },
+    {
+      "cash": 7013.603319,
+      "deployed": 2349.282592,
+      "equity": 9362.885912,
+      "fees_paid": 445.159855,
+      "last_processed_candle_utc": "2026-10-23T17:20:00Z",
+      "slippage_paid": 0.0,
+      "timestamp_utc": "2026-10-23T17:25:56Z"
+    },
+    {
+      "cash": 7013.603319,
+      "deployed": 2347.048245,
+      "equity": 9360.651565,
+      "fees_paid": 445.159855,
+      "last_processed_candle_utc": "2026-10-23T17:25:00Z",
+      "slippage_paid": 0.0,
+      "timestamp_utc": "2026-10-23T17:30:56Z"
+    },
+    {
+      "cash": 7013.603319,
+      "deployed": 2346.527501,
+      "equity": 9360.13082,
+      "fees_paid": 445.159855,
+      "last_processed_candle_utc": "2026-10-23T17:30:00Z",
+      "slippage_paid": 0.0,
+      "timestamp_utc": "2026-10-23T17:35:56Z"
+    },
+    {
+      "cash": 7013.603319,
+      "deployed": 2345.161679,
+      "equity": 9358.764998,
+      "fees_paid": 445.159855,
+      "last_processed_candle_utc": "2026-10-23T17:35:00Z",
+      "slippage_paid": 0.0,
+      "timestamp_utc": "2026-10-23T17:40:56Z"
     }
   ],
   "schema": "pmv5_caesar_equity_history_0_1_0"
