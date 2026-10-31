@@ -2,7 +2,7 @@
   "bot_started_at_utc": "2026-06-22T22:55:28Z",
   "coins": [
     {
-      "apr_estimate_pct": 4.1742,
+      "apr_estimate_pct": 4.1736,
       "avg_10d": "BULL_PULLBACK_RESET (50%)",
       "avg_3d": "Not enough data",
       "buys": 5,
@@ -24,7 +24,7 @@
       "total_pnl_usd": 149.3652
     },
     {
-      "apr_estimate_pct": 2.0082,
+      "apr_estimate_pct": 2.0078,
       "avg_10d": "UNKNOWN_SIDE (56%)",
       "avg_3d": "Not enough data",
       "buys": 12,
@@ -68,7 +68,7 @@
       "total_pnl_usd": -11.8696
     },
     {
-      "apr_estimate_pct": -0.3215,
+      "apr_estimate_pct": -0.3214,
       "avg_10d": "BULL_PULLBACK_RESET (47%)",
       "avg_3d": "Not enough data",
       "buys": 17,
@@ -90,7 +90,7 @@
       "total_pnl_usd": -11.5041
     },
     {
-      "apr_estimate_pct": -4.0694,
+      "apr_estimate_pct": -4.0688,
       "avg_10d": "UNKNOWN_DOWN (36%)",
       "avg_3d": "Not enough data",
       "buys": 18,
@@ -112,8 +112,8 @@
       "total_pnl_usd": -145.6155
     },
     {
-      "apr_estimate_pct": -13.2747,
-      "avg_10d": "BULL_PULLBACK_RESET (43%)",
+      "apr_estimate_pct": -13.2726,
+      "avg_10d": "BULL_PULLBACK_RESET (44%)",
       "avg_3d": "Not enough data",
       "buys": 21,
       "champion": "ZIRA_R071_OVERNIGHT_0806_BULL_PULLBA",
@@ -134,7 +134,7 @@
       "total_pnl_usd": -475.0073
     },
     {
-      "apr_estimate_pct": 4.8427,
+      "apr_estimate_pct": 4.8419,
       "avg_10d": "BULL_PULLBACK_RESET (35%)",
       "avg_3d": "Not enough data",
       "buys": 14,
@@ -200,7 +200,7 @@
       "rows": 8273
     }
   },
-  "generated_at_utc": "2026-10-31T13:29:45Z",
+  "generated_at_utc": "2026-10-31T13:59:48Z",
   "last_processed_candle_utc": "2026-10-23T19:20:00Z",
   "mode": "PAPER",
   "notes": [
@@ -215,7 +215,7 @@
     "wallet_state": "C:\\Users\\marcg\\Documents\\kraken-bot\\profit-monkey-v5\\data\\caesar\\paper\\wallet_state.json"
   },
   "summary": {
-    "apr_estimate_pct": -18.515119,
+    "apr_estimate_pct": -18.512162,
     "buys": 103,
     "cash": 7013.603319,
     "current_drawdown_pct": -11.670233,
