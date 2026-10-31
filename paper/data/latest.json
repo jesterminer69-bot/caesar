@@ -2,8 +2,8 @@
   "bot_started_at_utc": "2026-06-22T22:55:28Z",
   "coins": [
     {
-      "apr_estimate_pct": 4.1782,
-      "avg_10d": "BULL_PULLBACK_RESET (51%)",
+      "apr_estimate_pct": 4.1776,
+      "avg_10d": "BULL_PULLBACK_RESET (52%)",
       "avg_3d": "Not enough data",
       "buys": 5,
       "champion": "ZIRA_AUTO_TRANS_R147_UNKNOWN_SIDE_03",
@@ -24,7 +24,7 @@
       "total_pnl_usd": 149.3652
     },
     {
-      "apr_estimate_pct": 2.0101,
+      "apr_estimate_pct": 2.0098,
       "avg_10d": "UNKNOWN_SIDE (58%)",
       "avg_3d": "Not enough data",
       "buys": 12,
@@ -69,7 +69,7 @@
     },
     {
       "apr_estimate_pct": -0.3218,
-      "avg_10d": "BULL_PULLBACK_RESET (44%)",
+      "avg_10d": "BULL_PULLBACK_RESET (45%)",
       "avg_3d": "Not enough data",
       "buys": 17,
       "champion": "ZIRA_R071_OVERNIGHT_0806_BULL_PULLBA",
@@ -90,8 +90,8 @@
       "total_pnl_usd": -11.5041
     },
     {
-      "apr_estimate_pct": -4.0733,
-      "avg_10d": "BULL_PULLBACK_RESET (35%)",
+      "apr_estimate_pct": -4.0727,
+      "avg_10d": "BULL_PULLBACK_RESET (34%)",
       "avg_3d": "Not enough data",
       "buys": 18,
       "champion": "ZIRA_AUTO_TRANS_R147_UNKNOWN_SIDE_03",
@@ -112,7 +112,7 @@
       "total_pnl_usd": -145.6155
     },
     {
-      "apr_estimate_pct": -13.2875,
+      "apr_estimate_pct": -13.2854,
       "avg_10d": "BULL_PULLBACK_RESET (41%)",
       "avg_3d": "Not enough data",
       "buys": 21,
@@ -134,7 +134,7 @@
       "total_pnl_usd": -475.0073
     },
     {
-      "apr_estimate_pct": 4.8474,
+      "apr_estimate_pct": 4.8466,
       "avg_10d": "BULL_PULLBACK_RESET (33%)",
       "avg_3d": "Not enough data",
       "buys": 14,
@@ -200,7 +200,7 @@
       "rows": 8273
     }
   },
-  "generated_at_utc": "2026-10-31T10:29:30Z",
+  "generated_at_utc": "2026-10-31T10:59:32Z",
   "last_processed_candle_utc": "2026-10-23T19:20:00Z",
   "mode": "PAPER",
   "notes": [
@@ -215,7 +215,7 @@
     "wallet_state": "C:\\Users\\marcg\\Documents\\kraken-bot\\profit-monkey-v5\\data\\caesar\\paper\\wallet_state.json"
   },
   "summary": {
-    "apr_estimate_pct": -18.532882,
+    "apr_estimate_pct": -18.529919,
     "buys": 103,
     "cash": 7013.603319,
     "current_drawdown_pct": -11.670233,
