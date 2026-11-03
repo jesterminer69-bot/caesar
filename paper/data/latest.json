@@ -2,7 +2,7 @@
   "bot_started_at_utc": "2026-06-22T22:55:28Z",
   "coins": [
     {
-      "apr_estimate_pct": 4.0887,
+      "apr_estimate_pct": 4.088,
       "avg_10d": "Not enough data",
       "avg_3d": "Not enough data",
       "buys": 5,
@@ -24,7 +24,7 @@
       "total_pnl_usd": 149.3652
     },
     {
-      "apr_estimate_pct": 1.967,
+      "apr_estimate_pct": 1.9667,
       "avg_10d": "Not enough data",
       "avg_3d": "Not enough data",
       "buys": 12,
@@ -90,7 +90,7 @@
       "total_pnl_usd": -11.5041
     },
     {
-      "apr_estimate_pct": -3.986,
+      "apr_estimate_pct": -3.9854,
       "avg_10d": "Not enough data",
       "avg_3d": "Not enough data",
       "buys": 18,
@@ -112,7 +112,7 @@
       "total_pnl_usd": -145.6155
     },
     {
-      "apr_estimate_pct": -13.0026,
+      "apr_estimate_pct": -13.0006,
       "avg_10d": "Not enough data",
       "avg_3d": "Not enough data",
       "buys": 21,
@@ -134,7 +134,7 @@
       "total_pnl_usd": -475.0073
     },
     {
-      "apr_estimate_pct": 4.7434,
+      "apr_estimate_pct": 4.7427,
       "avg_10d": "Not enough data",
       "avg_3d": "Not enough data",
       "buys": 14,
@@ -200,7 +200,7 @@
       "rows": 8273
     }
   },
-  "generated_at_utc": "2026-11-03T07:05:38Z",
+  "generated_at_utc": "2026-11-03T07:35:40Z",
   "last_processed_candle_utc": "2026-10-23T19:20:00Z",
   "mode": "PAPER",
   "notes": [
@@ -215,7 +215,7 @@
     "wallet_state": "C:\\Users\\marcg\\Documents\\kraken-bot\\profit-monkey-v5\\data\\caesar\\paper\\wallet_state.json"
   },
   "summary": {
-    "apr_estimate_pct": -18.135591,
+    "apr_estimate_pct": -18.132754,
     "buys": 103,
     "cash": 7013.603319,
     "current_drawdown_pct": -11.670233,
